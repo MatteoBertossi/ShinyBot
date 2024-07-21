@@ -8,11 +8,17 @@ ShinyBot is a mini-project designed to help you find shiny Pokémon by leveragin
 - **User-friendly:** Simplifies the shiny Pokémon hunting process.
 - **Efficient:** Saves time and effort compared to manual hunting methods.
 
+## Hardware Requirements
+
+- **Arduino Board:** An Arduino board (e.g., Arduino Uno)
+- **Nintendo 3DS:** A Nintendo 3DS with the appropriate game cartridge
+- **Servo Motors:** Two servo motors for physical manipulation
+- **Webcam:** A webcam for visual feedback
+
 ## Getting Started
 
 ### Prerequisites
 
-- **Hardware:** An Arduino board (e.g., Arduino Uno)
 - **Software:** Arduino IDE installed on your computer
 
 ### Installation
