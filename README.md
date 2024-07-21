@@ -2,11 +2,6 @@
 
 ShinyBot is a mini-project designed to help you find shiny Pokémon by leveraging a program developed in Arduino. This tool aims to make the process of hunting for shiny Pokémon easier and more efficient.
 
-## Features
-
-- **Arduino-based Solution:** Utilizes Arduino programming to automate the process.
-- **User-friendly:** Simplifies the shiny Pokémon hunting process.
-- **Efficient:** Saves time and effort compared to manual hunting methods.
 
 ## Hardware Requirements
 
